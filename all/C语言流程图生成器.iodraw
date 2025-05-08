@@ -32,10 +32,16 @@
           <mxGeometry x="330" y="480" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvYW6iP84b2JiFQ4ZeI1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvYW6iP84b2JiFQ4ZeI1-9" target="QvYW6iP84b2JiFQ4ZeI1-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="270" />
+              <mxPoint x="515" y="170" />
+              <mxPoint x="400" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QvYW6iP84b2JiFQ4ZeI1-9" value="验证准确率提升?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="230" width="190" height="80" as="geometry" />
+          <mxGeometry x="305" y="230" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
