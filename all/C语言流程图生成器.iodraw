@@ -14,7 +14,7 @@
           <mxGeometry x="340" y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvYW6iP84b2JiFQ4ZeI1-4" value="渐进式软剪枝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="200" width="120" height="30" as="geometry" />
+          <mxGeometry x="220" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvYW6iP84b2JiFQ4ZeI1-5" value="保存剪枝参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="330" width="120" height="30" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="330" y="480" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvYW6iP84b2JiFQ4ZeI1-9" value="验证准确率提升?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="210" width="190" height="80" as="geometry" />
+          <mxGeometry x="319" y="220" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
