@@ -17,7 +17,7 @@
           <mxGeometry x="120" y="220" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVZiU5lyVPUhmyrCpbDb-6" value="随即旋转与翻转" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="20" height="190" as="geometry" />
+          <mxGeometry x="60" y="300" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
