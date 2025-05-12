@@ -46,8 +46,8 @@
         <mxCell id="VVZiU5lyVPUhmyrCpbDb-17" value="随即缩放" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
           <mxGeometry x="290" y="340" width="20" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VVZiU5lyVPUhmyrCpbDb-18" value="随即缩放" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="20" height="140" as="geometry" />
+        <mxCell id="VVZiU5lyVPUhmyrCpbDb-18" value="图像去噪" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VVZiU5lyVPUhmyrCpbDb-19" value="局部扰动" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
           <mxGeometry x="630" y="320" width="20" height="140" as="geometry" />
