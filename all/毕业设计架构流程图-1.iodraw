@@ -40,10 +40,10 @@
         <mxCell id="VVZiU5lyVPUhmyrCpbDb-9" value="随即缩放" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="20" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VVZiU5lyVPUhmyrCpbDb-16" value="随即缩放" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
+        <mxCell id="VVZiU5lyVPUhmyrCpbDb-16" value="对比度增强" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
           <mxGeometry x="450" y="320" width="20" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VVZiU5lyVPUhmyrCpbDb-17" value="随即缩放" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
+        <mxCell id="VVZiU5lyVPUhmyrCpbDb-17" value="颜色扭曲" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
           <mxGeometry x="370" y="320" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VVZiU5lyVPUhmyrCpbDb-18" value="图像去噪" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
